@@ -12,5 +12,9 @@ public class Employee {
 		this.salary=salary;
 		
 	}
+	void disp()
+	{
+		System.out.println("displaying");
+	}
 
 }
